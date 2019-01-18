@@ -14,5 +14,5 @@ def time_display(request):
 
     return render(request, "app_alpha/index.html", info)
 
-
+#git attempt
 # Create your views here.
